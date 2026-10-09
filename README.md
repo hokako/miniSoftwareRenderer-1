@@ -2,8 +2,6 @@
 
 用 C++ 从零实现的软件光栅化渲染器。不调用任何图形 API —— 每个三角形都由 CPU 逐像素计算，结果写入内存中的后台缓冲，再由 Win32 窗口实时呈现。
 
-![](README_IMG/miniSoftwareRenderer_final_screenshot.png)
-
 ## 已实现
 
 **渲染管线**
